@@ -1,8 +1,8 @@
 '''
-    Lesson: String Manipulation
-    Author: Wesley Giese
-    Date Created: Sept 30, 2024
-    Date Last Modified: Oct 1, 2024
+lesson 1.9
+author : Wesley Giese
+date created : sept 30
+last edited Oct 1
 '''
 
 def q1(): 
